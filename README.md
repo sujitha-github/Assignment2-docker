@@ -10,7 +10,7 @@ This project is to practice the docker from scratch. The task enrolled in the pr
 4. Build and push the docker image using git action
 
 
-Run command to run helloworld-app image localy
+Run command to run helloworld-app image locally
 ```
 docker run -d -p 8000:8000 sujithadocker06/helloworld-app
 ```
