@@ -1,4 +1,4 @@
-### 15 basic docker command with explanations and screenshot.
+### 15 basic docker commands with explanations and screenshot.
 
 <!-- docker version  -->
 <details><summary><b>  1. docker -v </b></summary>  
