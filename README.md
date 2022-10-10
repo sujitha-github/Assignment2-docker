@@ -7,7 +7,7 @@ This project is to practice the docker from scratch. Tasks enrolled in this proj
 1. Explained 15 docker commands with screenshots. >>> [Read](./docker-commands.md)
 2. Created a "helloworld" image in FastAPI and build a docker image and run it in a container.
 3. Push the docker image to dockerhub
-4. Build and push the docker image using git action
+4. Automate build and push the docker image using git action
 
 
 Run command to run helloworld-app image locally
